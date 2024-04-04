@@ -1,7 +1,6 @@
 ## 3nplus1
 - 유명한 3n+1 문제를 작성해 보았다.
 ```c++
-#include <iostream>
 #include <fstream>
 #include <string>
 using namespace std;
